@@ -86,6 +86,5 @@
 
 ---
 **Notes:**
-*   Appendix B (SQL Schema) was not provided in the original `SWes.txt`. A custom schema was created based on the requirements.
 *   Appendix C (UAT Scenarios) was not provided. User input may be needed for UAT.
 *   Environment setup complete with PHP 8.1, Apache, and MySQL 8.0.
